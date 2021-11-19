@@ -1,7 +1,0 @@
-{
-  "name": "ionicAuthttp",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
