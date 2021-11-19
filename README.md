@@ -1,4 +1,5 @@
 # ionicHttpSimpleAuth Basic ionic authenticated
+## Technology
 using [Ionic 6](https://ionicframework.com/), [Angular 13](https://angular.io/)
 
 ## Development server
