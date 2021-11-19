@@ -1,5 +1,5 @@
 # ionicHttpSimpleAuth Basic ionic authenticated
-using [Ionic 6](https://ionicframework.com/), [Angular 6](https://angular.io/)
+using [Ionic 6](https://ionicframework.com/), [Angular 13](https://angular.io/)
  
 To run locally:
 
