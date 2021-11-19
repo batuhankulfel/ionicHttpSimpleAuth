@@ -9,7 +9,7 @@ Run `npm install`. Run `ionic serve` for a dev server. The app will automaticall
 
 ## Build
 
-Run `ionicc build` to build the project.
+Run `ionic build` to build the project.
 
 ## Further help
 
