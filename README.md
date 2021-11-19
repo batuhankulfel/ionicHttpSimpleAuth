@@ -1,0 +1,2 @@
+# ionicHttpSimpleAuth
+basic ionic authenticated
